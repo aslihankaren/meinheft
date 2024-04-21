@@ -4,18 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="075b7b7d-ebf8-4106-ad45-68a2ebe6de38" name="Changes" comment="0.0.1" />
+    <list default="true" id="bb8fd097-6081-4203-afe0-8bf43392dd0b" name="Changes" comment="devam">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meinHeft/NotDefterim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/meinHeft/NotDefterimRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,7 +24,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2epfLZHCoZVSyiKWRfVqRMcl9WQ" />
+  <component name="ProjectId" id="2fHStyH2SsXLpyDNkAYfBGgSwaw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -31,63 +32,18 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NotDefterimRunner">
-    <configuration name="NotDefteri" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meinHeft.NotDefteri" />
-      <module name="meinHeft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.meinHeft.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NotDefterimRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.meinHeft.NotDefterimRunner" />
-      <module name="meinHeft" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.meinHeft.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.NotDefterimRunner" />
-        <item itemvalue="Application.NotDefteri" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="075b7b7d-ebf8-4106-ad45-68a2ebe6de38" name="Changes" comment="" />
-      <created>1712606385081</created>
+      <changelist id="bb8fd097-6081-4203-afe0-8bf43392dd0b" name="Changes" comment="" />
+      <created>1713456729350</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1712606385081</updated>
+      <updated>1713456729350</updated>
     </task>
-    <task id="LOCAL-00001" summary="0.0.1">
-      <created>1713114747913</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1713114747913</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -102,7 +58,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="0.0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.0.1" />
+    <MESSAGE value="devam" />
+    <option name="LAST_COMMIT_MESSAGE" value="devam" />
   </component>
 </project>
